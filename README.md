@@ -1,7 +1,7 @@
 # Exploratory Data Analysis (EDA) in Python
 
 ## Introduction
-**Exploratory Data Analysis (EDA)** is a crucial step in understanding datasets by summarizing their main characteristics and visualizing them. This project demonstrates how to perform EDA using a car dataset from Kaggle.
+**Exploratory Data Analysis (EDA)** is a crucial step in understanding datasets by summarizing their main characteristics and visualizing them. This project demonstrates how to perform EDA using a car dataset.
 
 ## What is EDA?
 EDA involves visualizing data through plots like histograms, box plots, and scatter plots. It helps in defining problem statements and preparing data for modeling.
